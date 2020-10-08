@@ -23,7 +23,7 @@ node "index.js"
 MIT
 
 ## Contributors
-Namita
+Irene
 
 ## Questions
 iyn88@yahoo.com
